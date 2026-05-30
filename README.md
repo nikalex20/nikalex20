@@ -19,10 +19,20 @@
 - Data Structures & Algorithms
 
 ---
+## 🚀 Open Source Contribution Stats
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=3+Merged+Open+Source+Pull+Requests;GSSoC+2026+Contributor;NSoC+2026+Contributor;Building+Projects+and+Learning+MERN+Stack" />  
+</p>
+
+### 🎯 Merged Contributions
+
+- 🎮 **GSSoC 2026** → Minesweeper Game
+- 🌦️ **NSoC 2026** → Weather Page Initialization Crash Fix
+- 🎨 **NSoC 2026** → Fasal Saathi UI Alignment Fix
 
 ### 🛠 Open Source
 - GSSoC 2026 Contributor
-- NSoC Contributor
+- NSoC 2026 Contributor
 
 ---
 
