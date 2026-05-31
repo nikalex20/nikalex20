@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Ranjan</h1>
-<h3 align="center">CSE Student | Web Development Learner | Open Source Contributor</h3>
-
+<h3 align="center">CSE Student | MERN Stack Learner | Open Source Contributor (GSSoC'26 & NSoC'26)</h3>
+ ![](https://komarev.com/ghpvc/?username=nikalex20&color=blue)
 ---
 
 ### 🚀 Skills
@@ -31,8 +31,8 @@
 - 🎨 **NSoC 2026** → Fasal Saathi UI Alignment Fix
 
 ### 🛠 Open Source
-- GSSoC 2026 Contributor
-- NSoC 2026 Contributor
+![GSSoC](https://img.shields.io/badge/GSSoC-2026-pink)
+![NSoC](https://img.shields.io/badge/NSoC-2026-blue)
 
 ---
 
